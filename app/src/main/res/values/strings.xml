@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JavaLag</string>
+    <string name="internet">No internet connection. Please connect to a network and pull down to refresh</string>
+    <string name="username">username</string>
+</resources>
